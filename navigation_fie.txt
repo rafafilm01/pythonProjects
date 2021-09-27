@@ -1,1 +1,5 @@
 history of uploads
+D18 exercises on turtles  
+  turtle lib 
+  random lib
+  
