@@ -2,4 +2,4 @@ history of uploads
 D18 exercises on turtles  
   turtle lib 
   random lib
-  
+  turtle colormode for working with RGB colour scale 
