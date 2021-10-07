@@ -5,7 +5,7 @@ D18 exercises on turtles
   turtle colormode for working with RGB colour scale 
 
 snake_game
-  maore work on turtle lib , turtle & screen in use, 
+  more work on turtle lib , turtle & screen in use, 
     screen.listen() for key commands and operating the snake
     screen.tracer() & screen.update() for controlling animation 
     OOP in use 
