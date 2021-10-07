@@ -3,3 +3,11 @@ D18 exercises on turtles
   turtle lib 
   random lib
   turtle colormode for working with RGB colour scale 
+
+snake_game
+  maore work on turtle lib , turtle & screen in use, 
+    screen.listen() for key commands and operating the snake
+    screen.tracer() & screen.update() for controlling animation 
+    OOP in use 
+    detecting in-game collisions (with food / wall / tail)
+    scoreboard - keeping score (no high score file yet) 
