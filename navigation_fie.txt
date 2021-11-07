@@ -11,3 +11,33 @@ snake_game
     OOP in use 
     detecting in-game collisions (with food / wall / tail)
     scoreboard - keeping score (no high score file yet) 
+    
+Mail Merge Project 
+
+
+NATO alphabet
+
+
+D17 quiz game
+
+
+D19 etch_a_scetch
+
+
+
+Hirst painting
+
+
+OOP coffee machine
+
+
+pomodoro
+
+
+pong game
+
+
+turtle crossing game
+
+
+US states game pandes / turtle
