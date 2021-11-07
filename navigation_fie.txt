@@ -1,10 +1,10 @@
 history of uploads
-D18 exercises on turtles  
+D18 exercises on turtles  ** turtle / random ** 
   turtle lib 
   random lib
   turtle colormode for working with RGB colour scale 
 
-snake_game
+snake_game  ** trutle **
   more work on turtle lib , turtle & screen in use, 
     screen.listen() for key commands and operating the snake
     screen.tracer() & screen.update() for controlling animation 
@@ -13,9 +13,10 @@ snake_game
     scoreboard - keeping score (no high score file yet) 
     
 Mail Merge Project 
+  opening and saving text files 
+  for loop to loop over list in 1 file , extract the info and use it when creating docs in the other file 
 
-
-NATO alphabet
+NATO aplhabet 
 
 
 D17 quiz game
