@@ -16,11 +16,13 @@ Mail Merge Project
   opening and saving text files 
   for loop to loop over list in 1 file , extract the info and use it when creating docs in the other file 
 
-NATO aplhabet 
-
-
+NATO aplhabet  **pandas**
+  looping through dicts with dict.iterrows()
+  pandas.read_csv
+  use of dictionary comprehension 
+  
 D17 quiz game
-
+  OOP in use 
 
 D19 etch_a_scetch
 
