@@ -1,4 +1,5 @@
-history of uploads
+history of uploads: 
+
 D18 exercises on turtles  ** turtle / random ** 
   turtle lib 
   random lib
@@ -34,13 +35,38 @@ Hirst painting
 OOP coffee machine
 
 
-pomodoro
+pomodoro **tkinter / math **
+  countdown mechanism on the display ( minutes : seconds) 
+  GUI set up
+  use iamge as background 
+  button functionality 
+  reset timer / start timer uttons 
+  
 
-
-pong game
+pong game ** turtle/ time / random**
+  OOP
+  paddle creation , controllable elements (screen.listen() ) 
+  ball that moves in random direction , speeds up over-time 
+  scoreboard for keeping the score 
+  collision detection (ball vs paddle  & ball vs wall or out of bounds )
+  game loop
 
 
 turtle crossing game
 
 
 US states game pandes / turtle
+
+tkinter password manager ** tkinter / tkinter messagebox/ random/ json /papyrclip **
+  gui application that allows saving and retrieving passwords stored  in JSON format 
+  inlcuds a random pasword generator
+  try / except code for error management 
+  3 step process of opening and writting into JSON file format
+  gui interface  + popup notifications
+  search button for retrieving passwords already saved on the file 
+  papyrclip to copy and past passwords automatically
+  MINOR ISSUES WITH BUTTON LAYOUT 
+  
+  
+
+  
