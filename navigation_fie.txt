@@ -65,7 +65,14 @@ tkinter password manager ** tkinter / tkinter messagebox/ random/ json /papyrcli
   gui interface  + popup notifications
   search button for retrieving passwords already saved on the file 
   papyrclip to copy and past passwords automatically
-  MINOR ISSUES WITH BUTTON LAYOUT 
+  MINOR ISSUES WITH BUTTON LAYOUT
+  
+ language_flashcard_game ** tkinter / random / pandas **
+  try / except code for error management
+  pandas.read_csv _ ORIENT parameter to orgnaise the dict correctly
+  window.after - to make changes to the screen based on time 
+  creating text on canvas
+  
   
   
 
