@@ -76,6 +76,7 @@ tkinter password manager ** tkinter / tkinter messagebox/ random/ json /papyrcli
  motivational email quaotes **smtplib/ datetime / random **
   SENSITIVE DATA REMOVED
   example of sending an email
+  readlines to convert doc.txt to a list 
   datetime module , operations on now()
   
   
