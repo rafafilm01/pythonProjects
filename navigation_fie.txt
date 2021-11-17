@@ -73,6 +73,12 @@ tkinter password manager ** tkinter / tkinter messagebox/ random/ json /papyrcli
   window.after - to make changes to the screen based on time 
   creating text on canvas
   
+ motivational email quaotes **smtplib/ datetime / random **
+  SENSITIVE DATA REMOVED
+  example of sending an email
+  datetime module , operations on now()
+  
+  
   
   
 
