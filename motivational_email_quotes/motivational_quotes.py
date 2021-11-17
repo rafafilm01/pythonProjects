@@ -5,7 +5,7 @@ import smtplib
 import datetime as dt
 
 my_email= 'szymaniuk1983@gmail.com'
-my_password = 'passgen02' #PASSWORD NEEDS UPDATING TO THE ACTUAL ONE
+my_password = 'YOUR_PASSWORD_GOES_HERE' #PASSWORD NEEDS UPDATING TO THE ACTUAL ONE
 
 
 #open qutes.txt to get a list of quotes
