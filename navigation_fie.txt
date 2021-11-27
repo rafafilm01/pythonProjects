@@ -1,9 +1,11 @@
 history of uploads: 
 
+
 D18 exercises on turtles  ** turtle / random ** 
   turtle lib 
   random lib
   turtle colormode for working with RGB colour scale 
+
 
 snake_game  ** trutle **
   more work on turtle lib , turtle & screen in use, 
@@ -12,10 +14,12 @@ snake_game  ** trutle **
     OOP in use 
     detecting in-game collisions (with food / wall / tail)
     scoreboard - keeping score (no high score file yet) 
-    
+
+
 Mail Merge Project 
   opening and saving text files 
   for loop to loop over list in 1 file , extract the info and use it when creating docs in the other file 
+
 
 NATO aplhabet  **pandas**
   looping through dicts with dict.iterrows()
@@ -43,7 +47,7 @@ pomodoro **tkinter / math **
   reset timer / start timer uttons 
   
 
-pong game ** turtle/ time / random**
+pong game ** turtle/ time / random OOP**
   OOP
   paddle creation , controllable elements (screen.listen() ) 
   ball that moves in random direction , speeds up over-time 
@@ -57,6 +61,7 @@ turtle crossing game
 
 US states game pandes / turtle
 
+
 tkinter password manager ** tkinter / tkinter messagebox/ random/ json /papyrclip **
   gui application that allows saving and retrieving passwords stored  in JSON format 
   inlcuds a random pasword generator
@@ -67,17 +72,35 @@ tkinter password manager ** tkinter / tkinter messagebox/ random/ json /papyrcli
   papyrclip to copy and past passwords automatically
   MINOR ISSUES WITH BUTTON LAYOUT
   
- language_flashcard_game ** tkinter / random / pandas **
+  
+language_flashcard_game ** tkinter / random / pandas **
   try / except code for error management
   pandas.read_csv _ ORIENT parameter to orgnaise the dict correctly
   window.after - to make changes to the screen based on time 
   creating text on canvas
   
- motivational email quaotes **smtplib/ datetime / random **
+  
+motivational email quaotes **smtplib/ datetime / random **
   SENSITIVE DATA REMOVED
   example of sending an email
   readlines to convert doc.txt to a list 
   datetime module , operations on now()
+  
+  
+quizzer_app_v2 ** OOP/ tkinter / html / requests(api) **
+  rest api with parameters
+  tkinter disable buttons 
+  tkinter winodow.after for delaying activity on the screen
+  html clean up of special characters from the strings 
+  advanced OOP working with UI
+  nice clean UI for quiz app
+  
+  POSSIBLE UPGRADE :
+    CREATE A WELCOME SCREEN THAT ALLOWS TO CHOOSE QUIZ CATEGORY , 
+    step1 in py, 
+    step 2 in app(additional welcome screen on top of the game )
+    game loop (play again y/n)
+  
   
   
   
