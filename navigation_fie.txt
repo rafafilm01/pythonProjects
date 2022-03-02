@@ -80,11 +80,18 @@ language_flashcard_game ** tkinter / random / pandas **
   creating text on canvas
   
   
-motivational email quaotes **smtplib/ datetime / random **
+motivational email quotes **smtplib/ datetime / random **
   SENSITIVE DATA REMOVED
   example of sending an email
   readlines to convert doc.txt to a list 
   datetime module , operations on now()
+  
+  selenium part 1  ** selenium lib along with additional packages driver / service / by / Keys , time lib **
+  locating and operating on HTML / CSS elements 
+  time lib used to create a loop in cookie clicker 
+  filling out forms on web page (sign_up form)
+  
+  
   
   
 quizzer_app_v2 ** OOP/ tkinter / html / requests(api) **
@@ -97,7 +104,7 @@ quizzer_app_v2 ** OOP/ tkinter / html / requests(api) **
   
   POSSIBLE UPGRADE :
     CREATE A WELCOME SCREEN THAT ALLOWS TO CHOOSE QUIZ CATEGORY , 
-    step1 in py, 
+    step 1 in py, 
     step 2 in app(additional welcome screen on top of the game )
     game loop (play again y/n)
   
